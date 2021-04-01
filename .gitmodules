@@ -3,3 +3,7 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "indiedown"]
+	path = indiedown
+	url = https://github.com/cynkra/indiedown
+	shallow = true

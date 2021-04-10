@@ -7,3 +7,4 @@
 	path = indiedown
 	url = https://github.com/cynkra/indiedown
 	shallow = true
+	registered = true

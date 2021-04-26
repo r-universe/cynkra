@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "dm"]
+	path = dm
+	url = https://github.com/cynkra/dm
+	shallow = true
+	registered = true
 [submodule "indiedown"]
 	path = indiedown
 	url = https://github.com/cynkra/indiedown

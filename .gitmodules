@@ -8,8 +8,10 @@
 	url = https://github.com/cynkra/dm
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "indiedown"]
 	path = indiedown
 	url = https://github.com/cynkra/indiedown
 	shallow = true
 	registered = true
+	oncran = true

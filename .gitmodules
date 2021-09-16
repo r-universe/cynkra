@@ -1,15 +1,20 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/cynkra/universe
 	shallow = true
 	branch = HEAD
-[submodule "dm"]
-	path = dm
-	url = https://github.com/cynkra/dm
+[submodule "fledge"]
+	path = fledge
+	url = https://github.com/cynkra/fledge
 	shallow = true
 	registered = true
 [submodule "indiedown"]
 	path = indiedown
 	url = https://github.com/cynkra/indiedown
+	shallow = true
+	registered = true
+[submodule "dm"]
+	path = dm
+	url = https://github.com/cynkra/dm
 	shallow = true
 	registered = true

@@ -18,3 +18,18 @@
 	url = https://github.com/cynkra/dm
 	shallow = true
 	registered = true
+[submodule "cynkrathis"]
+	path = cynkrathis
+	url = https://github.com/cynkra/cynkrathis
+	shallow = true
+	registered = true
+[submodule "munch"]
+	path = munch
+	url = https://github.com/cynkra/munch
+	shallow = true
+	registered = true
+[submodule "tv"]
+	path = tv
+	url = https://github.com/cynkra/tv
+	shallow = true
+	registered = true

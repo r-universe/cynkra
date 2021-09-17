@@ -9,5 +9,14 @@
   {
     "package": "dm",
     "oncran": true
+  },
+  {
+    "package": "cynkrathis"
+  },
+  {
+    "package": "munch"
+  },
+  {
+    "package": "tv"
   }
 ]

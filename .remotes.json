@@ -1,5 +1,11 @@
 [
   {
+    "package": "rlang",
+    "url": "https://github.com/r-lib/rlang",
+    "via": ["fledge"],
+    "from": "fledge"
+  },
+  {
     "package": "tic",
     "url": "https://github.com/ropensci/tic",
     "via": ["cynkrathis"],

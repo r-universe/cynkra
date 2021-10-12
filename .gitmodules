@@ -3,6 +3,11 @@
 	url = https://github.com/cynkra/universe
 	shallow = true
 	branch = HEAD
+[submodule "fledge"]
+	path = fledge
+	url = https://github.com/cynkra/fledge
+	shallow = true
+	registered = true
 [submodule "indiedown"]
 	path = indiedown
 	url = https://github.com/cynkra/indiedown
@@ -11,6 +16,11 @@
 [submodule "dm"]
 	path = dm
 	url = https://github.com/cynkra/dm
+	shallow = true
+	registered = true
+[submodule "cynkrathis"]
+	path = cynkrathis
+	url = https://github.com/cynkra/cynkrathis
 	shallow = true
 	registered = true
 [submodule "munch"]

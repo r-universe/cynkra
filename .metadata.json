@@ -1,6 +1,7 @@
 [
   {
-    "package": "fledge"
+    "package": "fledge",
+    "oncran": false
   },
   {
     "package": "indiedown",

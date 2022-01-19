@@ -33,6 +33,12 @@
 	url = https://github.com/cynkra/tv
 	shallow = true
 	registered = true
+[submodule "jsonlite"]
+	path = jsonlite
+	url = https://github.com/krlmlr/jsonlite
+	shallow = true
+	branch = b-373-blob-class
+	registered = false
 [submodule "tic"]
 	path = tic
 	url = https://github.com/ropensci/tic

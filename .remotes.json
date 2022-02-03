@@ -1,12 +1,5 @@
 [
   {
-    "package": "jsonlite",
-    "url": "https://github.com/krlmlr/jsonlite",
-    "via": ["dm"],
-    "branch": "b-373-blob-class",
-    "from": "dm"
-  },
-  {
     "package": "tic",
     "url": "https://github.com/ropensci/tic",
     "via": ["cynkrathis"],

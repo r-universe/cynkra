@@ -9,7 +9,7 @@
   },
   {
     "package": "dm",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "cynkrathis"

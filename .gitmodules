@@ -38,3 +38,8 @@
 	url = https://github.com/cynkra/traudem
 	shallow = true
 	registered = true
+[submodule "tic"]
+	path = tic
+	url = https://github.com/ropensci/tic
+	shallow = true
+	registered = false

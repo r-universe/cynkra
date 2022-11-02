@@ -1,18 +1,21 @@
 [
   {
-    "package": "fledge",
-    "oncran": true
+    "package": "constructive"
   },
   {
-    "package": "indiedown",
-    "oncran": true
+    "package": "cynkrathis"
   },
   {
     "package": "dm",
     "oncran": true
   },
   {
-    "package": "cynkrathis"
+    "package": "fledge",
+    "oncran": true
+  },
+  {
+    "package": "indiedown",
+    "oncran": true
   },
   {
     "package": "munch"

@@ -3,6 +3,21 @@
 	url = https://github.com/cynkra/universe
 	shallow = true
 	branch = HEAD
+[submodule "constructive"]
+	path = constructive
+	url = https://github.com/cynkra/constructive
+	shallow = true
+	registered = true
+[submodule "cynkrathis"]
+	path = cynkrathis
+	url = https://github.com/cynkra/cynkrathis
+	shallow = true
+	registered = true
+[submodule "dm"]
+	path = dm
+	url = https://github.com/cynkra/dm
+	shallow = true
+	registered = true
 [submodule "fledge"]
 	path = fledge
 	url = https://github.com/cynkra/fledge
@@ -11,16 +26,6 @@
 [submodule "indiedown"]
 	path = indiedown
 	url = https://github.com/cynkra/indiedown
-	shallow = true
-	registered = true
-[submodule "dm"]
-	path = dm
-	url = https://github.com/cynkra/dm
-	shallow = true
-	registered = true
-[submodule "cynkrathis"]
-	path = cynkrathis
-	url = https://github.com/cynkra/cynkrathis
 	shallow = true
 	registered = true
 [submodule "munch"]

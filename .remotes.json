@@ -1,5 +1,11 @@
 [
   {
+    "package": "daff",
+    "url": "https://github.com/edwindj/daff",
+    "via": ["munch"],
+    "from": "munch"
+  },
+  {
     "package": "tic",
     "url": "https://github.com/ropensci/tic",
     "via": ["cynkrathis"],

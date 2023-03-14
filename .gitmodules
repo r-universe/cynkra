@@ -38,6 +38,11 @@
 	url = https://github.com/cynkra/tv
 	shallow = true
 	registered = true
+[submodule "daff"]
+	path = daff
+	url = https://github.com/edwindj/daff
+	shallow = true
+	registered = false
 [submodule "tic"]
 	path = tic
 	url = https://github.com/ropensci/tic

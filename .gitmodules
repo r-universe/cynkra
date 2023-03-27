@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/cynkra/universe
+	url = https://github.com/cynkra/cynkra.r-universe.dev
 	shallow = true
 	branch = HEAD
 [submodule "constructive"]

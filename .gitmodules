@@ -28,6 +28,11 @@
 	url = https://github.com/cynkra/indiedown
 	shallow = true
 	registered = true
+[submodule "lazytest"]
+	path = lazytest
+	url = https://github.com/cynkra/lazytest
+	shallow = true
+	registered = true
 [submodule "munch"]
 	path = munch
 	url = https://github.com/cynkra/munch

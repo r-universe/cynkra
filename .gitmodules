@@ -53,3 +53,8 @@
 	url = https://github.com/ropensci/tic
 	shallow = true
 	registered = false
+[submodule "tidyselect"]
+	path = tidyselect
+	url = https://github.com/r-lib/tidyselect
+	shallow = true
+	registered = false

@@ -1,60 +1,40 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/cynkra/cynkra.r-universe.dev
-	shallow = true
 	branch = HEAD
 [submodule "constructive"]
 	path = constructive
 	url = https://github.com/cynkra/constructive
-	shallow = true
-	registered = true
 [submodule "cynkrathis"]
 	path = cynkrathis
 	url = https://github.com/cynkra/cynkrathis
-	shallow = true
-	registered = true
 [submodule "dm"]
 	path = dm
 	url = https://github.com/cynkra/dm
-	shallow = true
-	registered = true
 [submodule "fledge"]
 	path = fledge
 	url = https://github.com/cynkra/fledge
-	shallow = true
-	registered = true
 [submodule "indiedown"]
 	path = indiedown
 	url = https://github.com/cynkra/indiedown
-	shallow = true
-	registered = true
 [submodule "lazytest"]
 	path = lazytest
 	url = https://github.com/cynkra/lazytest
-	shallow = true
-	registered = true
 [submodule "munch"]
 	path = munch
 	url = https://github.com/cynkra/munch
-	shallow = true
-	registered = true
 [submodule "tv"]
 	path = tv
 	url = https://github.com/cynkra/tv
-	shallow = true
-	registered = true
 [submodule "daff"]
 	path = daff
 	url = https://github.com/edwindj/daff
-	shallow = true
 	registered = false
 [submodule "tic"]
 	path = tic
 	url = https://github.com/ropensci/tic
-	shallow = true
 	registered = false
 [submodule "tidyselect"]
 	path = tidyselect
 	url = https://github.com/r-lib/tidyselect
-	shallow = true
 	registered = false

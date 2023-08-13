@@ -24,6 +24,10 @@
 [submodule "fledge"]
 	path = fledge
 	url = https://github.com/cynkra/fledge
+[submodule "flow"]
+	path = flow
+	url = https://github.com/moodymudskipper/flow
+	registered = false
 [submodule "indiedown"]
 	path = indiedown
 	url = https://github.com/cynkra/indiedown

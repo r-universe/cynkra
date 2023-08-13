@@ -11,6 +11,10 @@
 [submodule "cynkrathis"]
 	path = cynkrathis
 	url = https://github.com/cynkra/cynkrathis
+[submodule "daff"]
+	path = daff
+	url = https://github.com/edwindj/daff
+	registered = false
 [submodule "dm"]
 	path = dm
 	url = https://github.com/cynkra/dm
@@ -26,13 +30,6 @@
 [submodule "munch"]
 	path = munch
 	url = https://github.com/cynkra/munch
-[submodule "tv"]
-	path = tv
-	url = https://github.com/cynkra/tv
-[submodule "daff"]
-	path = daff
-	url = https://github.com/edwindj/daff
-	registered = false
 [submodule "tic"]
 	path = tic
 	url = https://github.com/ropensci/tic
@@ -41,3 +38,6 @@
 	path = tidyselect
 	url = https://github.com/r-lib/tidyselect
 	registered = false
+[submodule "tv"]
+	path = tv
+	url = https://github.com/cynkra/tv

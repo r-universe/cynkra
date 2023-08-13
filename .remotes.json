@@ -10,11 +10,5 @@
     "url": "https://github.com/ropensci/tic",
     "via": ["cynkrathis"],
     "from": "cynkrathis"
-  },
-  {
-    "package": "tidyselect",
-    "url": "https://github.com/r-lib/tidyselect",
-    "via": ["dm"],
-    "from": "dm"
   }
 ]

@@ -34,10 +34,6 @@
 	path = tic
 	url = https://github.com/ropensci/tic
 	registered = false
-[submodule "tidyselect"]
-	path = tidyselect
-	url = https://github.com/r-lib/tidyselect
-	registered = false
 [submodule "tv"]
 	path = tv
 	url = https://github.com/cynkra/tv

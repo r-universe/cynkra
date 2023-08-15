@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/cynkra/cynkra.r-universe.dev
 	branch = HEAD
+[submodule "boomer"]
+	path = boomer
+	url = https://github.com/moodymudskipper/boomer
 [submodule "codegrip"]
 	path = codegrip
 	url = https://github.com/lionel-/codegrip

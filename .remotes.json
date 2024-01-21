@@ -6,23 +6,10 @@
     "from": "munch"
   },
   {
-    "package": "dbplyr",
-    "url": "https://github.com/tidyverse/dbplyr",
-    "via": ["dm"],
-    "branch": "f-id",
-    "from": "dm"
-  },
-  {
     "package": "flow",
     "url": "https://github.com/moodymudskipper/flow",
     "via": ["boomer"],
     "from": "boomer"
-  },
-  {
-    "package": "odbc",
-    "url": "https://github.com/r-dbi/odbc",
-    "via": ["dm"],
-    "from": "dm"
   },
   {
     "package": "tic",

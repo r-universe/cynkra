@@ -18,11 +18,6 @@
 	path = daff
 	url = https://github.com/edwindj/daff
 	registered = false
-[submodule "dbplyr"]
-	path = dbplyr
-	url = https://github.com/tidyverse/dbplyr
-	branch = f-id
-	registered = false
 [submodule "dm"]
 	path = dm
 	url = https://github.com/cynkra/dm
@@ -46,10 +41,6 @@
 [submodule "munch"]
 	path = munch
 	url = https://github.com/cynkra/munch
-[submodule "odbc"]
-	path = odbc
-	url = https://github.com/r-dbi/odbc
-	registered = false
 [submodule "tic"]
 	path = tic
 	url = https://github.com/ropensci/tic

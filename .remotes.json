@@ -48,6 +48,12 @@
     "from": "blockr.ui"
   },
   {
+    "package": "connectapi",
+    "url": "https://github.com/rstudio/connectapi",
+    "via": ["connectViz"],
+    "from": "connectViz"
+  },
+  {
     "package": "daff",
     "url": "https://github.com/edwindj/daff",
     "via": ["munch"],

@@ -75,6 +75,10 @@
 [submodule "connectViz"]
 	path = connectViz
 	url = https://github.com/RinteRface/connectviz
+[submodule "connectapi"]
+	path = connectapi
+	url = https://github.com/rstudio/connectapi
+	registered = false
 [submodule "constructive"]
 	path = constructive
 	url = https://github.com/cynkra/constructive

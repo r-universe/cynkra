@@ -6,6 +6,13 @@
     "from": "munch"
   },
   {
+    "package": "dbplyr",
+    "url": "https://github.com/tidyverse/dbplyr",
+    "via": ["dm"],
+    "branch": "simplify-escaping",
+    "from": "dm"
+  },
+  {
     "package": "flow",
     "url": "https://github.com/moodymudskipper/flow",
     "via": ["boomer"],

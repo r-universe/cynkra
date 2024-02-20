@@ -46,6 +46,9 @@
 [submodule "munch"]
 	path = munch
 	url = https://github.com/cynkra/munch
+[submodule "struct"]
+	path = struct
+	url = https://github.com/cynkra/struct
 [submodule "tic"]
 	path = tic
 	url = https://github.com/ropensci/tic

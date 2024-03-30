@@ -18,11 +18,6 @@
 	path = daff
 	url = https://github.com/edwindj/daff
 	registered = false
-[submodule "dbplyr"]
-	path = dbplyr
-	url = https://github.com/tidyverse/dbplyr
-	branch = simplify-escaping
-	registered = false
 [submodule "dm"]
 	path = dm
 	url = https://github.com/cynkra/dm

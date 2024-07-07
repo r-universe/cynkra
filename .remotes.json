@@ -6,12 +6,6 @@
     "from": "munch"
   },
   {
-    "package": "flow",
-    "url": "https://github.com/moodymudskipper/flow",
-    "via": ["boomer"],
-    "from": "boomer"
-  },
-  {
     "package": "tic",
     "url": "https://github.com/ropensci/tic",
     "via": ["cynkrathis"],

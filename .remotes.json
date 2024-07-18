@@ -60,10 +60,22 @@
     "from": "blockr.ui"
   },
   {
+    "package": "erratum",
+    "url": "https://github.com/devOpifex/erratum",
+    "via": ["charpente", "npm"],
+    "from": "charpente"
+  },
+  {
     "package": "gridstackr",
     "url": "https://github.com/dreamRs/gridstackr",
     "via": ["blockr.ui"],
     "from": "blockr.ui"
+  },
+  {
+    "package": "npm",
+    "url": "https://github.com/JohnCoene/npm",
+    "via": ["charpente"],
+    "from": "charpente"
   },
   {
     "package": "tic",

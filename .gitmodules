@@ -100,6 +100,10 @@
 [submodule "duckplyr"]
 	path = duckplyr
 	url = https://github.com/tidyverse/duckplyr
+[submodule "erratum"]
+	path = erratum
+	url = https://github.com/devOpifex/erratum
+	registered = false
 [submodule "fledge"]
 	path = fledge
 	url = https://github.com/cynkra/fledge
@@ -146,6 +150,10 @@
 [submodule "netrankr"]
 	path = netrankr
 	url = https://github.com/schochastics/netrankr
+[submodule "npm"]
+	path = npm
+	url = https://github.com/JohnCoene/npm
+	registered = false
 [submodule "opt"]
 	path = opt
 	url = https://github.com/moodymudskipper/opt

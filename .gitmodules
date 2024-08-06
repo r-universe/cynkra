@@ -21,10 +21,6 @@
 [submodule "dm"]
 	path = dm
 	url = https://github.com/cynkra/dm
-[submodule "duckdb"]
-	path = duckdb
-	url = https://github.com/krlmlr/duckdb
-	subdir = tools/rpkg
 [submodule "fledge"]
 	path = fledge
 	url = https://github.com/cynkra/fledge

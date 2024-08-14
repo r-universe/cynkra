@@ -1,5 +1,11 @@
 [
   {
+    "package": "RMariaDB",
+    "url": "https://github.com/r-dbi/RMariaDB",
+    "via": ["dm"],
+    "from": "dm"
+  },
+  {
     "package": "daff",
     "url": "https://github.com/edwindj/daff",
     "via": ["munch"],

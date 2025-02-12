@@ -33,6 +33,9 @@
 [submodule "munch"]
 	path = munch
 	url = https://github.com/cynkra/munch
+[submodule "rchroma"]
+	path = rchroma
+	url = https://github.com/cynkra/rchroma
 [submodule "struct"]
 	path = struct
 	url = https://github.com/cynkra/struct

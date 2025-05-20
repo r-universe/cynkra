@@ -42,6 +42,14 @@
 	path = blockr.dplyr
 	url = https://github.com/BristolMyersSquibb/blockr.dplyr
 	registered = false
+[submodule "blockr.io"]
+	path = blockr.io
+	url = https://github.com/cynkra/blockr.io
+	registered = false
+[submodule "blockr.sdtm"]
+	path = blockr.sdtm
+	url = https://github.com/cynkra/blockr.sdtm
+	registered = false
 [submodule "blockr.ui"]
 	path = blockr.ui
 	url = https://github.com/cynkra/blockr.ui
@@ -60,6 +68,10 @@
 [submodule "cheetahR"]
 	path = cheetahR
 	url = https://github.com/cynkra/cheetahR
+[submodule "chromote"]
+	path = chromote
+	url = https://github.com/rstudio/chromote
+	registered = false
 [submodule "connectViz"]
 	path = connectViz
 	url = https://github.com/RinteRface/connectviz
@@ -100,6 +112,10 @@
 [submodule "graphlayouts"]
 	path = graphlayouts
 	url = https://github.com/schochastics/graphlayouts
+[submodule "gridstackr"]
+	path = gridstackr
+	url = https://github.com/dreamRs/gridstackr
+	registered = false
 [submodule "here"]
 	path = here
 	url = https://github.com/r-lib/here

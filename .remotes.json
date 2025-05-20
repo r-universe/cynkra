@@ -1,9 +1,21 @@
 [
   {
+    "package": "blockr.ai",
+    "url": "https://github.com/cynkra/blockr.ai",
+    "via": ["blockr.ui"],
+    "from": "blockr.ui"
+  },
+  {
     "package": "blockr.core",
     "url": "https://github.com/BristolMyersSquibb/blockr.core",
     "via": ["blockr.ai"],
     "from": "blockr.ai"
+  },
+  {
+    "package": "blockr.core",
+    "url": "https://github.com/cynkra/blockr.core",
+    "via": ["blockr.ui"],
+    "from": "blockr.ui"
   },
   {
     "package": "blockr.dplyr",
@@ -12,10 +24,46 @@
     "from": "blockr.ai"
   },
   {
+    "package": "blockr.dplyr",
+    "url": "https://github.com/cynkra/blockr.dplyr",
+    "via": ["blockr.ui"],
+    "from": "blockr.ui"
+  },
+  {
+    "package": "blockr.io",
+    "url": "https://github.com/cynkra/blockr.io",
+    "via": ["blockr.ui"],
+    "from": "blockr.ui"
+  },
+  {
+    "package": "blockr.sdtm",
+    "url": "https://github.com/cynkra/blockr.sdtm",
+    "via": ["blockr.ui"],
+    "from": "blockr.ui"
+  },
+  {
+    "package": "chromote",
+    "url": "https://github.com/rstudio/chromote",
+    "via": ["blockr.ui"],
+    "from": "blockr.ui"
+  },
+  {
     "package": "daff",
     "url": "https://github.com/edwindj/daff",
     "via": ["munch"],
     "from": "munch"
+  },
+  {
+    "package": "dockViewR",
+    "url": "https://github.com/cynkra/dockViewR",
+    "via": ["blockr.ui"],
+    "from": "blockr.ui"
+  },
+  {
+    "package": "gridstackr",
+    "url": "https://github.com/dreamRs/gridstackr",
+    "via": ["blockr.ui"],
+    "from": "blockr.ui"
   },
   {
     "package": "tic",

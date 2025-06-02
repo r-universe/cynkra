@@ -1,5 +1,17 @@
 [
   {
+    "package": "blockr.core",
+    "url": "https://github.com/BristolMyersSquibb/blockr.core",
+    "via": ["blockr.ai"],
+    "from": "blockr.ai"
+  },
+  {
+    "package": "blockr.dplyr",
+    "url": "https://github.com/BristolMyersSquibb/blockr.dplyr",
+    "via": ["blockr.ai"],
+    "from": "blockr.ai"
+  },
+  {
     "package": "daff",
     "url": "https://github.com/edwindj/daff",
     "via": ["munch"],

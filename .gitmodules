@@ -38,6 +38,10 @@
 [submodule "blockr.core"]
 	path = blockr.core
 	url = https://github.com/cynkra/blockr.core
+[submodule "blockr.dplyr"]
+	path = blockr.dplyr
+	url = https://github.com/BristolMyersSquibb/blockr.dplyr
+	registered = false
 [submodule "blockr.ui"]
 	path = blockr.ui
 	url = https://github.com/cynkra/blockr.ui

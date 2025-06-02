@@ -283,10 +283,6 @@
 [submodule "tibble"]
 	path = tibble
 	url = https://github.com/tidyverse/tibble
-[submodule "tic"]
-	path = tic
-	url = https://github.com/ropensci/tic
-	registered = false
 [submodule "timeless"]
 	path = timeless
 	url = https://github.com/schochastics/timeless

@@ -67,6 +67,12 @@
     "from": "blockr.ui"
   },
   {
+    "package": "chromote",
+    "url": "https://github.com/rstudio/chromote",
+    "via": ["scoutbaR"],
+    "from": "scoutbaR"
+  },
+  {
     "package": "connectapi",
     "url": "https://github.com/rstudio/connectapi",
     "via": ["connectViz"],

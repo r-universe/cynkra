@@ -2,47 +2,239 @@
 	path = .registry
 	url = https://github.com/cynkra/cynkra.r-universe.dev
 	branch = HEAD
+[submodule "DBI"]
+	path = DBI
+	url = https://github.com/r-dbi/DBI
+[submodule "DBItest"]
+	path = DBItest
+	url = https://github.com/r-dbi/DBItest
+[submodule "RMariaDB"]
+	path = RMariaDB
+	url = https://github.com/r-dbi/RMariaDB
+[submodule "RPostgres"]
+	path = RPostgres
+	url = https://github.com/r-dbi/RPostgres
+[submodule "RSQLite"]
+	path = RSQLite
+	url = https://github.com/r-dbi/RSQLite
+[submodule "adaR"]
+	path = adaR
+	url = https://github.com/gesistsa/adaR
+[submodule "adbi"]
+	path = adbi
+	url = https://github.com/r-dbi/adbi
+[submodule "argonDash"]
+	path = argonDash
+	url = https://github.com/RinteRface/argonDash
+[submodule "ask"]
+	path = ask
+	url = https://github.com/moodymudskipper/ask
+[submodule "blob"]
+	path = blob
+	url = https://github.com/krlmlr/blob
+[submodule "blockr.ai"]
+	path = blockr.ai
+	url = https://github.com/cynkra/blockr.ai
+[submodule "blockr.core"]
+	path = blockr.core
+	url = https://github.com/cynkra/blockr.core
+[submodule "blockr.ui"]
+	path = blockr.ui
+	url = https://github.com/cynkra/blockr.ui
 [submodule "boomer"]
 	path = boomer
 	url = https://github.com/moodymudskipper/boomer
-[submodule "codegrip"]
-	path = codegrip
-	url = https://github.com/lionel-/codegrip
+[submodule "bs4Dash"]
+	path = bs4Dash
+	url = https://github.com/RinteRface/bs4Dash
+[submodule "caPO4Sim"]
+	path = caPO4Sim
+	url = https://github.com/DivadNojnarg/caPO4Sim
+[submodule "charpente"]
+	path = charpente
+	url = https://github.com/RinteRface/charpente
+[submodule "cheetahR"]
+	path = cheetahR
+	url = https://github.com/cynkra/cheetahR
+[submodule "connectViz"]
+	path = connectViz
+	url = https://github.com/RinteRface/connectviz
 [submodule "constructive"]
 	path = constructive
 	url = https://github.com/cynkra/constructive
-[submodule "cynkrathis"]
-	path = cynkrathis
-	url = https://github.com/cynkra/cynkrathis
 [submodule "daff"]
 	path = daff
 	url = https://github.com/edwindj/daff
 	registered = false
+[submodule "dataseries"]
+	path = dataseries
+	url = https://github.com/christophsax/dataseries
+[submodule "devtag"]
+	path = devtag
+	url = https://github.com/moodymudskipper/devtag
 [submodule "dm"]
 	path = dm
 	url = https://github.com/cynkra/dm
+[submodule "dockViewR"]
+	path = dockViewR
+	url = https://github.com/cynkra/dockViewR
+[submodule "duckdb"]
+	path = duckdb
+	url = https://github.com/duckdb/duckdb-r
+[submodule "duckplyr"]
+	path = duckplyr
+	url = https://github.com/tidyverse/duckplyr
 [submodule "fledge"]
 	path = fledge
 	url = https://github.com/cynkra/fledge
+[submodule "flow"]
+	path = flow
+	url = https://github.com/moodymudskipper/flow
+[submodule "geocompkg"]
+	path = geocompkg
+	url = https://github.com/geocompx/geocompkg
+[submodule "graphlayouts"]
+	path = graphlayouts
+	url = https://github.com/schochastics/graphlayouts
+[submodule "here"]
+	path = here
+	url = https://github.com/r-lib/here
+[submodule "hms"]
+	path = hms
+	url = https://github.com/tidyverse/hms
+[submodule "igraph"]
+	path = igraph
+	url = https://github.com/igraph/rigraph
+[submodule "igraphdata"]
+	path = igraphdata
+	url = https://github.com/igraph/igraphdata
 [submodule "indiedown"]
 	path = indiedown
 	url = https://github.com/cynkra/indiedown
-[submodule "lazytest"]
-	path = lazytest
-	url = https://github.com/cynkra/lazytest
+[submodule "mockr"]
+	path = mockr
+	url = https://github.com/krlmlr/mockr
+[submodule "mockthat"]
+	path = mockthat
+	url = https://github.com/nbenn/mockthat
 [submodule "munch"]
 	path = munch
 	url = https://github.com/cynkra/munch
+[submodule "netUtils"]
+	path = netUtils
+	url = https://github.com/schochastics/netUtils
+[submodule "netrankr"]
+	path = netrankr
+	url = https://github.com/schochastics/netrankr
+[submodule "opt"]
+	path = opt
+	url = https://github.com/moodymudskipper/opt
+[submodule "pillar"]
+	path = pillar
+	url = https://github.com/r-lib/pillar
+[submodule "pkg"]
+	path = pkg
+	url = https://github.com/moodymudskipper/pkg
+[submodule "plogr"]
+	path = plogr
+	url = https://github.com/krlmlr/plogr
+[submodule "procmaps"]
+	path = procmaps
+	url = https://github.com/r-prof/procmaps
+[submodule "profile"]
+	path = profile
+	url = https://github.com/r-prof/profile
+[submodule "qgisprocess"]
+	path = qgisprocess
+	url = https://github.com/r-spatial/qgisprocess
 [submodule "rchroma"]
 	path = rchroma
 	url = https://github.com/cynkra/rchroma
+[submodule "refactor"]
+	path = refactor
+	url = https://github.com/moodymudskipper/refactor
+[submodule "replace"]
+	path = replace
+	url = https://github.com/moodymudskipper/replace
+[submodule "roxygen2md"]
+	path = roxygen2md
+	url = https://github.com/r-lib/roxygen2md
+[submodule "rprojroot"]
+	path = rprojroot
+	url = https://github.com/r-lib/rprojroot
+[submodule "rtoot"]
+	path = rtoot
+	url = https://github.com/gesistsa/rtoot
+[submodule "scoutbaR"]
+	path = scoutbaR
+	url = https://github.com/cynkra/scoutbaR
+[submodule "seasonal"]
+	path = seasonal
+	url = https://github.com/christophsax/seasonal
+[submodule "shiny386"]
+	path = shiny386
+	url = https://github.com/RinteRface/shiny386
+[submodule "shinyHeatmap"]
+	path = shinyHeatmap
+	url = https://github.com/RinteRface/shinyHeatmap
+[submodule "shinyMobile"]
+	path = shinyMobile
+	url = https://github.com/RinteRface/shinyMobile
+[submodule "shinyMons"]
+	path = shinyMons
+	url = https://github.com/DivadNojnarg/shinyMons
+[submodule "shinyNextUI"]
+	path = shinyNextUI
+	url = https://github.com/RinteRface/shinyNextUI
+[submodule "shinydashboardPlus"]
+	path = shinydashboardPlus
+	url = https://github.com/RinteRface/shinydashboardPlus
+[submodule "signnet"]
+	path = signnet
+	url = https://github.com/schochastics/signnet
+[submodule "snahelper"]
+	path = snahelper
+	url = https://github.com/schochastics/snahelper
+[submodule "spDataLarge"]
+	path = spDataLarge
+	url = https://github.com/Nowosad/spDataLarge
 [submodule "struct"]
 	path = struct
 	url = https://github.com/cynkra/struct
+[submodule "tablerDash"]
+	path = tablerDash
+	url = https://github.com/RinteRface/tablerDash
+[submodule "tempdisagg"]
+	path = tempdisagg
+	url = https://github.com/christophsax/tempdisagg
+[submodule "tibble"]
+	path = tibble
+	url = https://github.com/tidyverse/tibble
 [submodule "tic"]
 	path = tic
 	url = https://github.com/ropensci/tic
 	registered = false
+[submodule "timeless"]
+	path = timeless
+	url = https://github.com/schochastics/timeless
+[submodule "tmap"]
+	path = tmap
+	url = https://github.com/r-tmap/tmap
+[submodule "tsbox"]
+	path = tsbox
+	url = https://github.com/ropensci/tsbox
 [submodule "tv"]
 	path = tv
 	url = https://github.com/cynkra/tv
+[submodule "typed"]
+	path = typed
+	url = https://github.com/moodymudskipper/typed
+[submodule "winch"]
+	path = winch
+	url = https://github.com/r-prof/winch
+[submodule "wrswoR"]
+	path = wrswoR
+	url = https://github.com/krlmlr/wrswoR
+[submodule "x13binary"]
+	path = x13binary
+	url = https://github.com/x13org/x13binary

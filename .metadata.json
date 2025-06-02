@@ -1,0 +1,605 @@
+[
+  {
+    "package": "adaR",
+    "metadata": {
+      "category": "Data handling",
+      "cynkra_team_members": "david.schoch"
+    }
+  },
+  {
+    "package": "adbi",
+    "metadata": {
+      "category": "Database",
+      "cynkra_team_members": [
+        "nicolas",
+        "kirill"
+      ]
+    }
+  },
+  {
+    "package": "argonDash",
+    "metadata": {
+      "category": "Shiny",
+      "cynkra_team_members": "david"
+    }
+  },
+  {
+    "package": "ask",
+    "metadata": {
+      "category": "LLM",
+      "cynkra_team_members": "antoine"
+    }
+  },
+  {
+    "package": "blob",
+    "metadata": {
+      "category": {},
+      "cynkra_team_members": "kirill"
+    }
+  },
+  {
+    "package": "blockr.ai",
+    "metadata": {
+      "category": "LLM",
+      "cynkra_team_members": [
+        "david",
+        "nicolas",
+        "christoph"
+      ]
+    }
+  },
+  {
+    "package": "blockr.core",
+    "metadata": {
+      "category": "Shiny",
+      "cynkra_team_members": [
+        "david",
+        "nicolas",
+        "christoph"
+      ]
+    }
+  },
+  {
+    "package": "blockr.ui",
+    "metadata": {
+      "category": "Shiny",
+      "cynkra_team_members": [
+        "david",
+        "nicolas",
+        "christoph"
+      ]
+    }
+  },
+  {
+    "package": "boomer",
+    "metadata": {
+      "category": {},
+      "cynkra_team_members": [
+        "antoine",
+        "kirill"
+      ]
+    }
+  },
+  {
+    "package": "bs4Dash",
+    "metadata": {
+      "category": "Shiny",
+      "cynkra_team_members": "david"
+    }
+  },
+  {
+    "package": "caPO4Sim",
+    "metadata": {
+      "category": "Shiny",
+      "cynkra_team_members": "david"
+    }
+  },
+  {
+    "package": "charpente",
+    "metadata": {
+      "category": "Shiny",
+      "cynkra_team_members": "david"
+    }
+  },
+  {
+    "package": "cheetahR",
+    "metadata": {
+      "category": "Shiny",
+      "cynkra_team_members": [
+        "olajoke",
+        "david"
+      ]
+    }
+  },
+  {
+    "package": "connectViz",
+    "metadata": {
+      "category": "Viz",
+      "cynkra_team_members": "david"
+    }
+  },
+  {
+    "package": "constructive",
+    "metadata": {
+      "category": "Development",
+      "cynkra_team_members": [
+        "antoine",
+        "kirill"
+      ]
+    }
+  },
+  {
+    "package": "dataseries",
+    "metadata": {
+      "category": "Datasets",
+      "cynkra_team_members": [
+        "christoph",
+        "jannes"
+      ]
+    }
+  },
+  {
+    "package": "DBI",
+    "metadata": {
+      "category": "Database",
+      "cynkra_team_members": "kirill"
+    }
+  },
+  {
+    "package": "DBItest",
+    "metadata": {
+      "category": "Database",
+      "cynkra_team_members": "kirill"
+    }
+  },
+  {
+    "package": "devtag",
+    "metadata": {
+      "category": {},
+      "cynkra_team_members": "antoine"
+    }
+  },
+  {
+    "package": "dm",
+    "metadata": {
+      "category": "Database",
+      "cynkra_team_members": [
+        "kirill",
+        "tobias"
+      ]
+    }
+  },
+  {
+    "package": "dockViewR",
+    "metadata": {
+      "category": "Shiny",
+      "cynkra_team_members": [
+        "david",
+        "nicolas",
+        "nelson"
+      ]
+    }
+  },
+  {
+    "package": "duckdb",
+    "metadata": {
+      "category": "Database",
+      "cynkra_team_members": "kirill"
+    }
+  },
+  {
+    "package": "duckplyr",
+    "metadata": {
+      "category": "Database",
+      "cynkra_team_members": "kirill"
+    }
+  },
+  {
+    "package": "fledge",
+    "metadata": {
+      "category": "Development",
+      "cynkra_team_members": [
+        "kirill",
+        "maelle"
+      ]
+    }
+  },
+  {
+    "package": "flow",
+    "metadata": {
+      "category": "Development",
+      "cynkra_team_members": "antoine"
+    }
+  },
+  {
+    "package": "flow",
+    "metadata": {
+      "category": "Development",
+      "cynkra_team_members": [
+        "antoine",
+        "kirill"
+      ]
+    }
+  },
+  {
+    "package": "geocompkg",
+    "metadata": {
+      "category": "Spatial",
+      "cynkra_team_members": "jannes"
+    }
+  },
+  {
+    "package": "graphlayouts",
+    "metadata": {
+      "category": "Networks",
+      "cynkra_team_members": "david.schoch"
+    }
+  },
+  {
+    "package": "here",
+    "metadata": {
+      "category": "Convenience",
+      "cynkra_team_members": "kirill"
+    }
+  },
+  {
+    "package": "hms",
+    "metadata": {
+      "category": {},
+      "cynkra_team_members": "kirill"
+    }
+  },
+  {
+    "package": "igraph",
+    "metadata": {
+      "category": "Networks",
+      "cynkra_team_members": [
+        "kirill",
+        "maelle",
+        "david.schoch"
+      ]
+    }
+  },
+  {
+    "package": "igraphdata",
+    "metadata": {
+      "category": "Networks",
+      "cynkra_team_members": [
+        "kirill",
+        "maelle",
+        "david.schoch"
+      ]
+    }
+  },
+  {
+    "package": "indiedown",
+    "metadata": {
+      "category": "Reporting",
+      "cynkra_team_members": [
+        "angelica",
+        "christoph",
+        "kirill"
+      ]
+    }
+  },
+  {
+    "package": "mockr",
+    "metadata": {
+      "category": {},
+      "cynkra_team_members": "kirill"
+    }
+  },
+  {
+    "package": "mockthat",
+    "metadata": {
+      "category": "Development",
+      "cynkra_team_members": "nicolas"
+    }
+  },
+  {
+    "package": "munch",
+    "metadata": {
+      "category": "Datasets",
+      "cynkra_team_members": [
+        "kirill",
+        "tobias"
+      ]
+    }
+  },
+  {
+    "package": "netrankr",
+    "metadata": {
+      "category": "Networks",
+      "cynkra_team_members": "david.schoch"
+    }
+  },
+  {
+    "package": "netUtils",
+    "metadata": {
+      "category": "Networks",
+      "cynkra_team_members": "david.schoch"
+    }
+  },
+  {
+    "package": "opt",
+    "metadata": {
+      "category": {},
+      "cynkra_team_members": "antoine"
+    }
+  },
+  {
+    "package": "pillar",
+    "metadata": {
+      "category": "Data handling",
+      "cynkra_team_members": "kirill"
+    }
+  },
+  {
+    "package": "pkg",
+    "metadata": {
+      "category": {},
+      "cynkra_team_members": "antoine"
+    }
+  },
+  {
+    "package": "plogr",
+    "metadata": {
+      "category": "Development",
+      "cynkra_team_members": "kirill"
+    }
+  },
+  {
+    "package": "procmaps",
+    "metadata": {
+      "category": {},
+      "cynkra_team_members": "kirill"
+    }
+  },
+  {
+    "package": "profile",
+    "metadata": {
+      "category": "Development",
+      "cynkra_team_members": "kirill"
+    }
+  },
+  {
+    "package": "qgisprocess",
+    "metadata": {
+      "category": "Spatial",
+      "cynkra_team_members": "jannes"
+    }
+  },
+  {
+    "package": "rchroma",
+    "metadata": {
+      "category": "LLM",
+      "cynkra_team_members": [
+        "david.schoch",
+        "christoph"
+      ]
+    }
+  },
+  {
+    "package": "refactor",
+    "metadata": {
+      "category": "Development",
+      "cynkra_team_members": "antoine"
+    }
+  },
+  {
+    "package": "replace",
+    "metadata": {
+      "category": {},
+      "cynkra_team_members": "antoine"
+    }
+  },
+  {
+    "package": "RMariaDB",
+    "metadata": {
+      "category": "Database",
+      "cynkra_team_members": "kirill"
+    }
+  },
+  {
+    "package": "roxygen2md",
+    "metadata": {
+      "category": "Development",
+      "cynkra_team_members": "kirill"
+    }
+  },
+  {
+    "package": "RPostgres",
+    "metadata": {
+      "category": "Database",
+      "cynkra_team_members": "kirill"
+    }
+  },
+  {
+    "package": "rprojroot",
+    "metadata": {
+      "category": "Convenience",
+      "cynkra_team_members": "kirill"
+    }
+  },
+  {
+    "package": "RSQLite",
+    "metadata": {
+      "category": "Database",
+      "cynkra_team_members": "kirill"
+    }
+  },
+  {
+    "package": "rtoot",
+    "metadata": {
+      "category": "Data gathering",
+      "cynkra_team_members": "david.schoch"
+    }
+  },
+  {
+    "package": "scoutbaR",
+    "metadata": {
+      "category": "Shiny",
+      "cynkra_team_members": "david"
+    }
+  },
+  {
+    "package": "seasonal",
+    "metadata": {
+      "category": "Time series",
+      "cynkra_team_members": "christoph"
+    }
+  },
+  {
+    "package": "shiny386",
+    "metadata": {
+      "category": "Shiny",
+      "cynkra_team_members": "david"
+    }
+  },
+  {
+    "package": "shinydashboardPlus",
+    "metadata": {
+      "category": "Shiny",
+      "cynkra_team_members": "david"
+    }
+  },
+  {
+    "package": "shinyHeatmap",
+    "metadata": {
+      "category": "Shiny",
+      "cynkra_team_members": "david"
+    }
+  },
+  {
+    "package": "shinyMobile",
+    "metadata": {
+      "category": "Shiny",
+      "cynkra_team_members": "david"
+    }
+  },
+  {
+    "package": "shinyMons",
+    "metadata": {
+      "category": "Shiny",
+      "cynkra_team_members": "david"
+    }
+  },
+  {
+    "package": "shinyNextUI",
+    "metadata": {
+      "category": "Shiny",
+      "cynkra_team_members": "david"
+    }
+  },
+  {
+    "package": "signnet",
+    "metadata": {
+      "category": "Networks",
+      "cynkra_team_members": "david.schoch"
+    }
+  },
+  {
+    "package": "snahelper",
+    "metadata": {
+      "category": "Networks",
+      "cynkra_team_members": "david.schoch"
+    }
+  },
+  {
+    "package": "spDataLarge",
+    "metadata": {
+      "category": "Spatial",
+      "cynkra_team_members": "jannes"
+    }
+  },
+  {
+    "package": "struct",
+    "metadata": {
+      "category": {},
+      "cynkra_team_members": [
+        "antoine",
+        "kirill"
+      ]
+    }
+  },
+  {
+    "package": "tablerDash",
+    "metadata": {
+      "category": "Shiny",
+      "cynkra_team_members": "david"
+    }
+  },
+  {
+    "package": "tempdisagg",
+    "metadata": {
+      "category": "Time series",
+      "cynkra_team_members": "christoph"
+    }
+  },
+  {
+    "package": "tibble",
+    "metadata": {
+      "category": "Data handling",
+      "cynkra_team_members": "kirill"
+    }
+  },
+  {
+    "package": "timeless",
+    "metadata": {
+      "category": "Data handling",
+      "cynkra_team_members": "david.schoch"
+    }
+  },
+  {
+    "package": "tmap",
+    "metadata": {
+      "category": "Spatial",
+      "cynkra_team_members": "jannes"
+    }
+  },
+  {
+    "package": "tsbox",
+    "metadata": {
+      "category": "Time series",
+      "cynkra_team_members": "christoph"
+    }
+  },
+  {
+    "package": "tv",
+    "metadata": {
+      "category": "Convenience",
+      "cynkra_team_members": [
+        "kirill",
+        "christoph"
+      ]
+    }
+  },
+  {
+    "package": "typed",
+    "metadata": {
+      "category": {},
+      "cynkra_team_members": "antoine"
+    }
+  },
+  {
+    "package": "winch",
+    "metadata": {
+      "category": "Development",
+      "cynkra_team_members": "kirill"
+    }
+  },
+  {
+    "package": "wrswoR",
+    "metadata": {
+      "category": "Statistics",
+      "cynkra_team_members": "kirill"
+    }
+  },
+  {
+    "package": "x13binary",
+    "metadata": {
+      "category": "Time series",
+      "cynkra_team_members": "christoph"
+    }
+  }
+]

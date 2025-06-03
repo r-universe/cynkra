@@ -52,11 +52,11 @@
 	registered = false
 [submodule "blockr.io"]
 	path = blockr.io
-	url = https://github.com/cynkra/blockr.io
+	url = https://github.com/BristolMyersSquibb/blockr.io
 	registered = false
 [submodule "blockr.sdtm"]
 	path = blockr.sdtm
-	url = https://github.com/cynkra/blockr.sdtm
+	url = https://github.com/BristolMyersSquibb/blockr.sdtm
 	registered = false
 [submodule "blockr.ui"]
 	path = blockr.ui
@@ -131,16 +131,16 @@
 [submodule "flow"]
 	path = flow
 	url = https://github.com/moodymudskipper/flow
+[submodule "g6R"]
+	path = g6R
+	url = https://github.com/cynkra/g6R
+	registered = false
 [submodule "geocompkg"]
 	path = geocompkg
 	url = https://github.com/geocompx/geocompkg
 [submodule "graphlayouts"]
 	path = graphlayouts
 	url = https://github.com/schochastics/graphlayouts
-[submodule "gridstackr"]
-	path = gridstackr
-	url = https://github.com/dreamRs/gridstackr
-	registered = false
 [submodule "here"]
 	path = here
 	url = https://github.com/r-lib/here

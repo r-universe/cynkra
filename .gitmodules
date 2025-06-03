@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/cynkra/cynkra.r-universe.dev
 	branch = HEAD
+[submodule "CaPO4Sim"]
+	path = CaPO4Sim
+	url = https://github.com/DivadNojnarg/CaPO4Sim
 [submodule "CoxBoost"]
 	path = CoxBoost
 	url = https://github.com/binderh/CoxBoost
@@ -67,9 +70,6 @@
 [submodule "bs4Dash"]
 	path = bs4Dash
 	url = https://github.com/RinteRface/bs4Dash
-[submodule "caPO4Sim"]
-	path = caPO4Sim
-	url = https://github.com/DivadNojnarg/caPO4Sim
 [submodule "catboost"]
 	path = catboost
 	url = https://github.com/catboost/catboost

@@ -33,7 +33,7 @@
   {
     "package": "blob",
     "metadata": {
-      "category": {},
+      "category": "Development",
       "cynkra_team_members": "kirill"
     }
   },
@@ -515,7 +515,7 @@
   {
     "package": "struct",
     "metadata": {
-      "category": {},
+      "category": "Development",
       "cynkra_team_members": [
         "antoine",
         "kirill"
@@ -577,7 +577,7 @@
   {
     "package": "typed",
     "metadata": {
-      "category": {},
+      "category": "Development",
       "cynkra_team_members": "antoine"
     }
   },

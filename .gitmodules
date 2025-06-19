@@ -42,7 +42,7 @@
 	url = https://github.com/moodymudskipper/ask
 [submodule "blob"]
 	path = blob
-	url = https://github.com/krlmlr/blob
+	url = https://github.com/tidyverse/blob
 [submodule "blockr.ai"]
 	path = blockr.ai
 	url = https://github.com/cynkra/blockr.ai

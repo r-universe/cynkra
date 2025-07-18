@@ -85,6 +85,10 @@
 	path = chromote
 	url = https://github.com/rstudio/chromote
 	registered = false
+[submodule "cols4all"]
+	path = cols4all
+	url = https://github.com/cols4all/cols4all-R
+	registered = false
 [submodule "connectViz"]
 	path = connectViz
 	url = https://github.com/RinteRface/connectviz

@@ -85,12 +85,6 @@
     "from": "connectViz"
   },
   {
-    "package": "crul",
-    "url": "https://github.com/ropensci/crul",
-    "via": ["rtoot", "vcr"],
-    "from": "rtoot"
-  },
-  {
     "package": "daff",
     "url": "https://github.com/edwindj/daff",
     "via": ["munch"],
@@ -167,11 +161,5 @@
     "url": "https://github.com/RaphaelS1/survivalmodels",
     "via": ["geocompkg", "mlr3extralearners"],
     "from": "geocompkg"
-  },
-  {
-    "package": "vcr",
-    "url": "https://github.com/ropensci/vcr",
-    "via": ["rtoot"],
-    "from": "rtoot"
   }
 ]

@@ -99,10 +99,6 @@
 [submodule "constructive"]
 	path = constructive
 	url = https://github.com/cynkra/constructive
-[submodule "crul"]
-	path = crul
-	url = https://github.com/ropensci/crul
-	registered = false
 [submodule "daff"]
 	path = daff
 	url = https://github.com/edwindj/daff
@@ -306,10 +302,6 @@
 [submodule "typed"]
 	path = typed
 	url = https://github.com/moodymudskipper/typed
-[submodule "vcr"]
-	path = vcr
-	url = https://github.com/ropensci/vcr
-	registered = false
 [submodule "winch"]
 	path = winch
 	url = https://github.com/r-prof/winch

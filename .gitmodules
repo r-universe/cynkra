@@ -310,10 +310,6 @@
 	path = vcr
 	url = https://github.com/ropensci/vcr
 	registered = false
-[submodule "webmockr"]
-	path = webmockr
-	url = https://github.com/ropensci/webmockr
-	registered = false
 [submodule "winch"]
 	path = winch
 	url = https://github.com/r-prof/winch

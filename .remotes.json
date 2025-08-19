@@ -97,6 +97,13 @@
     "from": "geocompkg"
   },
   {
+    "package": "dockViewR",
+    "url": "https://github.com/cynkra/dockViewR",
+    "via": ["blockr.ui"],
+    "branch": "fix-windows-shaking",
+    "from": "blockr.ui"
+  },
+  {
     "package": "erratum",
     "url": "https://github.com/devOpifex/erratum",
     "via": ["charpente", "npm"],

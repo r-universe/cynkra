@@ -208,13 +208,6 @@
     "package": "flow",
     "metadata": {
       "category": "Development",
-      "cynkra_team_members": "antoine"
-    }
-  },
-  {
-    "package": "flow",
-    "metadata": {
-      "category": "Development",
       "cynkra_team_members": [
         "antoine",
         "kirill"

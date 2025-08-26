@@ -27,7 +27,6 @@
     "package": "blockr.core",
     "url": "https://github.com/BristolMyersSquibb/blockr.core",
     "via": ["blockr.ui"],
-    "branch": "66-opts",
     "from": "blockr.ui"
   },
   {

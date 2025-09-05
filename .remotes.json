@@ -157,6 +157,13 @@
     "from": "geocompkg"
   },
   {
+    "package": "shinychat",
+    "url": "https://github.com/posit-dev/shinychat",
+    "via": ["blockr.ui"],
+    "subdir": "pkg-r",
+    "from": "blockr.ui"
+  },
+  {
     "package": "spDataLarge",
     "url": "https://github.com/nowosad/spDataLarge",
     "via": ["geocompkg"],

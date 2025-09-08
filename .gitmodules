@@ -70,6 +70,10 @@
 [submodule "bs4Dash"]
 	path = bs4Dash
 	url = https://github.com/RinteRface/bs4Dash
+[submodule "btw"]
+	path = btw
+	url = https://github.com/posit-dev/btw
+	registered = false
 [submodule "catboost"]
 	path = catboost
 	url = https://github.com/catboost/catboost

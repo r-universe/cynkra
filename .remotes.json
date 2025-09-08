@@ -60,6 +60,12 @@
     "from": "blockr.ai"
   },
   {
+    "package": "btw",
+    "url": "https://github.com/posit-dev/btw",
+    "via": ["blockr.ui", "blockr.ai"],
+    "from": "blockr.ui"
+  },
+  {
     "package": "catboost",
     "url": "https://github.com/catboost/catboost",
     "via": ["geocompkg", "mlr3extralearners"],
@@ -172,7 +178,7 @@
   {
     "package": "shinychat",
     "url": "https://github.com/posit-dev/shinychat",
-    "via": ["blockr.ui"],
+    "via": ["blockr.ui", "blockr.ai"],
     "subdir": "pkg-r",
     "from": "blockr.ui"
   },

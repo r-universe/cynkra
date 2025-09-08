@@ -159,6 +159,13 @@
   {
     "package": "shinychat",
     "url": "https://github.com/posit-dev/shinychat",
+    "via": ["blockr.ai"],
+    "subdir": "pkg-r",
+    "from": "blockr.ai"
+  },
+  {
+    "package": "shinychat",
+    "url": "https://github.com/posit-dev/shinychat",
     "via": ["blockr.ui"],
     "subdir": "pkg-r",
     "from": "blockr.ui"

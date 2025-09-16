@@ -53,6 +53,14 @@
 	path = blockr.dplyr
 	url = https://github.com/BristolMyersSquibb/blockr.dplyr
 	registered = false
+[submodule "blockr.ggplot"]
+	path = blockr.ggplot
+	url = https://github.com/BristolMyersSquibb/blockr.ggplot
+	registered = false
+[submodule "blockr.gt"]
+	path = blockr.gt
+	url = https://github.com/BristolMyersSquibb/blockr.gt
+	registered = false
 [submodule "blockr.io"]
 	path = blockr.io
 	url = https://github.com/BristolMyersSquibb/blockr.io

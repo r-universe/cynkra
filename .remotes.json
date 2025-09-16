@@ -42,6 +42,18 @@
     "from": "blockr.ui"
   },
   {
+    "package": "blockr.ggplot",
+    "url": "https://github.com/BristolMyersSquibb/blockr.ggplot",
+    "via": ["blockr.ui"],
+    "from": "blockr.ui"
+  },
+  {
+    "package": "blockr.gt",
+    "url": "https://github.com/BristolMyersSquibb/blockr.gt",
+    "via": ["blockr.ui"],
+    "from": "blockr.ui"
+  },
+  {
     "package": "blockr.io",
     "url": "https://github.com/BristolMyersSquibb/blockr.io",
     "via": ["blockr.ui"],

@@ -12,12 +12,6 @@
     "from": "geocompkg"
   },
   {
-    "package": "blockr.ai",
-    "url": "https://github.com/BristolMyersSquibb/blockr.ai",
-    "via": ["blockr.ui"],
-    "from": "blockr.ui"
-  },
-  {
     "package": "blockr.core",
     "url": "https://github.com/BristolMyersSquibb/blockr.core",
     "via": ["blockr.ai"],
@@ -36,46 +30,10 @@
     "from": "blockr.ai"
   },
   {
-    "package": "blockr.dplyr",
-    "url": "https://github.com/BristolMyersSquibb/blockr.dplyr",
-    "via": ["blockr.ui"],
-    "from": "blockr.ui"
-  },
-  {
-    "package": "blockr.ggplot",
-    "url": "https://github.com/BristolMyersSquibb/blockr.ggplot",
-    "via": ["blockr.ui"],
-    "from": "blockr.ui"
-  },
-  {
-    "package": "blockr.gt",
-    "url": "https://github.com/BristolMyersSquibb/blockr.gt",
-    "via": ["blockr.ui"],
-    "from": "blockr.ui"
-  },
-  {
-    "package": "blockr.io",
-    "url": "https://github.com/BristolMyersSquibb/blockr.io",
-    "via": ["blockr.ui"],
-    "from": "blockr.ui"
-  },
-  {
-    "package": "blockr.sdtm",
-    "url": "https://github.com/BristolMyersSquibb/blockr.sdtm",
-    "via": ["blockr.ui"],
-    "from": "blockr.ui"
-  },
-  {
     "package": "btw",
     "url": "https://github.com/posit-dev/btw",
     "via": ["blockr.ai"],
     "from": "blockr.ai"
-  },
-  {
-    "package": "btw",
-    "url": "https://github.com/posit-dev/btw",
-    "via": ["blockr.ui", "blockr.ai"],
-    "from": "blockr.ui"
   },
   {
     "package": "catboost",
@@ -184,7 +142,7 @@
   {
     "package": "shinychat",
     "url": "https://github.com/posit-dev/shinychat",
-    "via": ["blockr.ui", "blockr.ai"],
+    "via": ["blockr.ui"],
     "subdir": "pkg-r",
     "from": "blockr.ui"
   },

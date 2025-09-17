@@ -114,6 +114,9 @@
 [submodule "dataseries"]
 	path = dataseries
 	url = https://github.com/christophsax/dataseries
+[submodule "dd"]
+	path = dd
+	url = https://github.com/cynkra/dd
 [submodule "devtag"]
 	path = devtag
 	url = https://github.com/moodymudskipper/devtag

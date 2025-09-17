@@ -153,6 +153,13 @@
     }
   },
   {
+    "package": "dd",
+    "metadata": {
+      "category": "Development",
+      "cynkra_team_members": "kirill"
+    }
+  },
+  {
     "package": "devtag",
     "metadata": {
       "category": "Development",

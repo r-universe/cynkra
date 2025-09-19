@@ -31,6 +31,20 @@
     }
   },
   {
+    "package": "bindr",
+    "metadata": {
+      "category": "Development",
+      "cynkra_team_members": "kirill"
+    }
+  },
+  {
+    "package": "bindrcpp",
+    "metadata": {
+      "category": "Development",
+      "cynkra_team_members": "kirill"
+    }
+  },
+  {
     "package": "blob",
     "metadata": {
       "category": "Development",
@@ -280,6 +294,20 @@
         "christoph",
         "kirill"
       ]
+    }
+  },
+  {
+    "package": "kimisc",
+    "metadata": {
+      "category": "Development",
+      "cynkra_team_members": "kirill"
+    }
+  },
+  {
+    "package": "MakefileR",
+    "metadata": {
+      "category": "Development",
+      "cynkra_team_members": "kirill"
     }
   },
   {
@@ -579,6 +607,13 @@
     "metadata": {
       "category": "Development",
       "cynkra_team_members": "antoine"
+    }
+  },
+  {
+    "package": "utf8",
+    "metadata": {
+      "category": "Data handling",
+      "cynkra_team_members": "kirill"
     }
   },
   {

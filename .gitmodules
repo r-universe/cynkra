@@ -15,6 +15,9 @@
 [submodule "DBItest"]
 	path = DBItest
 	url = https://github.com/r-dbi/DBItest
+[submodule "MakefileR"]
+	path = MakefileR
+	url = https://github.com/krlmlr/MakefileR
 [submodule "RMariaDB"]
 	path = RMariaDB
 	url = https://github.com/r-dbi/RMariaDB
@@ -40,6 +43,12 @@
 [submodule "ask"]
 	path = ask
 	url = https://github.com/moodymudskipper/ask
+[submodule "bindr"]
+	path = bindr
+	url = https://github.com/krlmlr/bindr
+[submodule "bindrcpp"]
+	path = bindrcpp
+	url = https://github.com/krlmlr/bindrcpp
 [submodule "blob"]
 	path = blob
 	url = https://github.com/tidyverse/blob
@@ -116,7 +125,7 @@
 	url = https://github.com/cynkra/dockViewR
 [submodule "duckdb"]
 	path = duckdb
-	url = https://github.com/krlmlr/duckdb-r
+	url = https://github.com/duckdb/duckdb-r
 [submodule "duckplyr"]
 	path = duckplyr
 	url = https://github.com/tidyverse/duckplyr
@@ -155,6 +164,9 @@
 [submodule "indiedown"]
 	path = indiedown
 	url = https://github.com/cynkra/indiedown
+[submodule "kimisc"]
+	path = kimisc
+	url = https://github.com/krlmlr/kimisc
 [submodule "mlr3extralearners"]
 	path = mlr3extralearners
 	url = https://github.com/mlr-org/mlr3extralearners
@@ -302,6 +314,9 @@
 [submodule "typed"]
 	path = typed
 	url = https://github.com/moodymudskipper/typed
+[submodule "utf8"]
+	path = utf8
+	url = https://github.com/krlmlr/utf8
 [submodule "winch"]
 	path = winch
 	url = https://github.com/r-prof/winch

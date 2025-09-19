@@ -116,7 +116,7 @@
 	url = https://github.com/cynkra/dockViewR
 [submodule "duckdb"]
 	path = duckdb
-	url = https://github.com/duckdb/duckdb-r
+	url = https://github.com/krlmlr/duckdb-r
 [submodule "duckplyr"]
 	path = duckplyr
 	url = https://github.com/tidyverse/duckplyr

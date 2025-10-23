@@ -86,10 +86,6 @@
 [submodule "cheetahR"]
 	path = cheetahR
 	url = https://github.com/cynkra/cheetahR
-[submodule "chromote"]
-	path = chromote
-	url = https://github.com/rstudio/chromote
-	registered = false
 [submodule "connectViz"]
 	path = connectViz
 	url = https://github.com/RinteRface/connectviz

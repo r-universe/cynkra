@@ -6,6 +6,12 @@
     "from": "geocompkg"
   },
   {
+    "package": "DBItest",
+    "url": "https://github.com/r-dbi/DBItest",
+    "via": ["adbi"],
+    "from": "adbi"
+  },
+  {
     "package": "aorsf",
     "url": "https://github.com/ropensci/aorsf",
     "via": ["geocompkg", "mlr3extralearners"],

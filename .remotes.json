@@ -36,12 +36,6 @@
     "from": "blockr.ai"
   },
   {
-    "package": "btw",
-    "url": "https://github.com/posit-dev/btw",
-    "via": ["blockr.ai"],
-    "from": "blockr.ai"
-  },
-  {
     "package": "catboost",
     "url": "https://github.com/catboost/catboost",
     "via": ["geocompkg", "mlr3extralearners"],

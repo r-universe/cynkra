@@ -67,6 +67,12 @@
     "from": "blockr.ui"
   },
   {
+    "package": "duckdb",
+    "url": "https://github.com/duckdb/duckdb-r",
+    "via": ["duckplyr"],
+    "from": "duckplyr"
+  },
+  {
     "package": "erratum",
     "url": "https://github.com/devOpifex/erratum",
     "via": ["charpente", "npm"],

@@ -186,6 +186,10 @@
 	path = npm
 	url = https://github.com/JohnCoene/npm
 	registered = false
+[submodule "odbc"]
+	path = odbc
+	url = https://github.com/r-dbi/odbc
+	registered = false
 [submodule "opt"]
 	path = opt
 	url = https://github.com/moodymudskipper/opt

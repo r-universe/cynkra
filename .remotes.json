@@ -97,6 +97,12 @@
     "from": "charpente"
   },
   {
+    "package": "odbc",
+    "url": "https://github.com/r-dbi/odbc",
+    "via": ["dm"],
+    "from": "dm"
+  },
+  {
     "package": "param6",
     "url": "https://github.com/xoopR/param6",
     "via": ["geocompkg", "mlr3extralearners", "mlr3proba", "distr6"],

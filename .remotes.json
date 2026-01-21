@@ -1,21 +1,9 @@
 [
   {
-    "package": "CoxBoost",
-    "url": "https://github.com/binderh/CoxBoost",
-    "via": ["geocompkg", "mlr3extralearners"],
-    "from": "geocompkg"
-  },
-  {
     "package": "DBItest",
     "url": "https://github.com/r-dbi/DBItest",
     "via": ["adbi"],
     "from": "adbi"
-  },
-  {
-    "package": "aorsf",
-    "url": "https://github.com/ropensci/aorsf",
-    "via": ["geocompkg", "mlr3extralearners"],
-    "from": "geocompkg"
   },
   {
     "package": "blockr.core",
@@ -49,6 +37,13 @@
     "from": "connectViz"
   },
   {
+    "package": "coxed",
+    "url": "https://github.com/jkropko/coxed",
+    "via": ["geocompkg", "mlr3extralearners", "mlr3proba"],
+    "branch": "bc92e25",
+    "from": "geocompkg"
+  },
+  {
     "package": "daff",
     "url": "https://github.com/edwindj/daff",
     "via": ["munch"],
@@ -77,6 +72,12 @@
     "url": "https://github.com/cynkra/g6R",
     "via": ["blockr.ui"],
     "from": "blockr.ui"
+  },
+  {
+    "package": "mlr3cmprsk",
+    "url": "https://github.com/mlr-org/mlr3cmprsk",
+    "via": ["geocompkg", "mlr3extralearners"],
+    "from": "geocompkg"
   },
   {
     "package": "mlr3extralearners",
@@ -109,12 +110,6 @@
     "from": "geocompkg"
   },
   {
-    "package": "randomPlantedForest",
-    "url": "https://github.com/PlantedML/randomPlantedForest",
-    "via": ["geocompkg", "mlr3extralearners"],
-    "from": "geocompkg"
-  },
-  {
     "package": "scoutbaR",
     "url": "https://github.com/cynkra/scoutbaR",
     "via": ["blockr.ui"],
@@ -144,6 +139,12 @@
     "package": "spDataLarge",
     "url": "https://github.com/nowosad/spDataLarge",
     "via": ["geocompkg"],
+    "from": "geocompkg"
+  },
+  {
+    "package": "survdistr",
+    "url": "https://github.com/mlr-org/survdistr",
+    "via": ["geocompkg", "mlr3extralearners", "mlr3cmprsk"],
     "from": "geocompkg"
   },
   {

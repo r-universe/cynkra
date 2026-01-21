@@ -5,10 +5,6 @@
 [submodule "CaPO4Sim"]
 	path = CaPO4Sim
 	url = https://github.com/DivadNojnarg/CaPO4Sim
-[submodule "CoxBoost"]
-	path = CoxBoost
-	url = https://github.com/binderh/CoxBoost
-	registered = false
 [submodule "DBI"]
 	path = DBI
 	url = https://github.com/r-dbi/DBI
@@ -33,10 +29,6 @@
 [submodule "adbi"]
 	path = adbi
 	url = https://github.com/r-dbi/adbi
-[submodule "aorsf"]
-	path = aorsf
-	url = https://github.com/ropensci/aorsf
-	registered = false
 [submodule "argonDash"]
 	path = argonDash
 	url = https://github.com/RinteRface/argonDash
@@ -92,6 +84,11 @@
 [submodule "constructive"]
 	path = constructive
 	url = https://github.com/cynkra/constructive
+[submodule "coxed"]
+	path = coxed
+	url = https://github.com/jkropko/coxed
+	branch = bc92e25
+	registered = false
 [submodule "daff"]
 	path = daff
 	url = https://github.com/edwindj/daff
@@ -159,6 +156,10 @@
 [submodule "kimisc"]
 	path = kimisc
 	url = https://github.com/krlmlr/kimisc
+[submodule "mlr3cmprsk"]
+	path = mlr3cmprsk
+	url = https://github.com/mlr-org/mlr3cmprsk
+	registered = false
 [submodule "mlr3extralearners"]
 	path = mlr3extralearners
 	url = https://github.com/mlr-org/mlr3extralearners
@@ -215,10 +216,6 @@
 [submodule "qgisprocess"]
 	path = qgisprocess
 	url = https://github.com/r-spatial/qgisprocess
-[submodule "randomPlantedForest"]
-	path = randomPlantedForest
-	url = https://github.com/PlantedML/randomPlantedForest
-	registered = false
 [submodule "rchroma"]
 	path = rchroma
 	url = https://github.com/cynkra/rchroma
@@ -282,6 +279,10 @@
 [submodule "struct"]
 	path = struct
 	url = https://github.com/cynkra/struct
+[submodule "survdistr"]
+	path = survdistr
+	url = https://github.com/mlr-org/survdistr
+	registered = false
 [submodule "survivalmodels"]
 	path = survivalmodels
 	url = https://github.com/RaphaelS1/survivalmodels

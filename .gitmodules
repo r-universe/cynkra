@@ -50,10 +50,6 @@
 [submodule "blockr.core"]
 	path = blockr.core
 	url = https://github.com/cynkra/blockr.core
-[submodule "blockr.dplyr"]
-	path = blockr.dplyr
-	url = https://github.com/BristolMyersSquibb/blockr.dplyr
-	registered = false
 [submodule "blockr.ui"]
 	path = blockr.ui
 	url = https://github.com/cynkra/blockr.ui
@@ -63,11 +59,6 @@
 [submodule "bs4Dash"]
 	path = bs4Dash
 	url = https://github.com/RinteRface/bs4Dash
-[submodule "catboost"]
-	path = catboost
-	url = https://github.com/catboost/catboost
-	subdir = catboost/R-package
-	registered = false
 [submodule "charpente"]
 	path = charpente
 	url = https://github.com/RinteRface/charpente
@@ -77,22 +68,9 @@
 [submodule "connectViz"]
 	path = connectViz
 	url = https://github.com/RinteRface/connectviz
-[submodule "connectapi"]
-	path = connectapi
-	url = https://github.com/rstudio/connectapi
-	registered = false
 [submodule "constructive"]
 	path = constructive
 	url = https://github.com/cynkra/constructive
-[submodule "coxed"]
-	path = coxed
-	url = https://github.com/jkropko/coxed
-	branch = bc92e25
-	registered = false
-[submodule "daff"]
-	path = daff
-	url = https://github.com/edwindj/daff
-	registered = false
 [submodule "dataseries"]
 	path = dataseries
 	url = https://github.com/christophsax/dataseries
@@ -102,10 +80,6 @@
 [submodule "devtag"]
 	path = devtag
 	url = https://github.com/moodymudskipper/devtag
-[submodule "distr6"]
-	path = distr6
-	url = https://github.com/xoopR/distr6
-	registered = false
 [submodule "dm"]
 	path = dm
 	url = https://github.com/cynkra/dm
@@ -118,20 +92,12 @@
 [submodule "duckplyr"]
 	path = duckplyr
 	url = https://github.com/tidyverse/duckplyr
-[submodule "erratum"]
-	path = erratum
-	url = https://github.com/devOpifex/erratum
-	registered = false
 [submodule "fledge"]
 	path = fledge
 	url = https://github.com/cynkra/fledge
 [submodule "flow"]
 	path = flow
 	url = https://github.com/moodymudskipper/flow
-[submodule "g6R"]
-	path = g6R
-	url = https://github.com/cynkra/g6R
-	registered = false
 [submodule "geocompkg"]
 	path = geocompkg
 	url = https://github.com/geocompx/geocompkg
@@ -156,18 +122,6 @@
 [submodule "kimisc"]
 	path = kimisc
 	url = https://github.com/krlmlr/kimisc
-[submodule "mlr3cmprsk"]
-	path = mlr3cmprsk
-	url = https://github.com/mlr-org/mlr3cmprsk
-	registered = false
-[submodule "mlr3extralearners"]
-	path = mlr3extralearners
-	url = https://github.com/mlr-org/mlr3extralearners
-	registered = false
-[submodule "mlr3proba"]
-	path = mlr3proba
-	url = https://github.com/mlr-org/mlr3proba
-	registered = false
 [submodule "mockr"]
 	path = mockr
 	url = https://github.com/krlmlr/mockr
@@ -183,21 +137,9 @@
 [submodule "netrankr"]
 	path = netrankr
 	url = https://github.com/schochastics/netrankr
-[submodule "npm"]
-	path = npm
-	url = https://github.com/JohnCoene/npm
-	registered = false
-[submodule "odbc"]
-	path = odbc
-	url = https://github.com/r-dbi/odbc
-	registered = false
 [submodule "opt"]
 	path = opt
 	url = https://github.com/moodymudskipper/opt
-[submodule "param6"]
-	path = param6
-	url = https://github.com/xoopR/param6
-	registered = false
 [submodule "pillar"]
 	path = pillar
 	url = https://github.com/r-lib/pillar
@@ -240,10 +182,6 @@
 [submodule "seasonal"]
 	path = seasonal
 	url = https://github.com/christophsax/seasonal
-[submodule "set6"]
-	path = set6
-	url = https://github.com/xoopR/set6
-	registered = false
 [submodule "shiny386"]
 	path = shiny386
 	url = https://github.com/RinteRface/shiny386
@@ -259,11 +197,6 @@
 [submodule "shinyNextUI"]
 	path = shinyNextUI
 	url = https://github.com/RinteRface/shinyNextUI
-[submodule "shinychat"]
-	path = shinychat
-	url = https://github.com/posit-dev/shinychat
-	subdir = pkg-r
-	registered = false
 [submodule "shinydashboardPlus"]
 	path = shinydashboardPlus
 	url = https://github.com/RinteRface/shinydashboardPlus
@@ -279,14 +212,6 @@
 [submodule "struct"]
 	path = struct
 	url = https://github.com/cynkra/struct
-[submodule "survdistr"]
-	path = survdistr
-	url = https://github.com/mlr-org/survdistr
-	registered = false
-[submodule "survivalmodels"]
-	path = survivalmodels
-	url = https://github.com/RaphaelS1/survivalmodels
-	registered = false
 [submodule "tablerDash"]
 	path = tablerDash
 	url = https://github.com/RinteRface/tablerDash

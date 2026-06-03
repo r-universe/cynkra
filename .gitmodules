@@ -73,7 +73,7 @@
 	url = https://github.com/cynkra/constructive
 [submodule "dataseries"]
 	path = dataseries
-	url = https://github.com/christophsax/dataseries
+	url = https://github.com/cynkra/dataseries
 [submodule "dd"]
 	path = dd
 	url = https://github.com/cynkra/dd
@@ -217,7 +217,7 @@
 	url = https://github.com/RinteRface/tablerDash
 [submodule "tempdisagg"]
 	path = tempdisagg
-	url = https://github.com/christophsax/tempdisagg
+	url = https://github.com/cynkra/tempdisagg
 [submodule "tibble"]
 	path = tibble
 	url = https://github.com/tidyverse/tibble

@@ -46,16 +46,16 @@
 	url = https://github.com/tidyverse/blob
 [submodule "blockr.ai"]
 	path = blockr.ai
-	url = https://github.com/cynkra/blockr.ai
+	url = https://github.com/BristolMyersSquibb/blockr.ai
 [submodule "blockr.core"]
 	path = blockr.core
-	url = https://github.com/cynkra/blockr.core
+	url = https://github.com/BristolMyersSquibb/blockr.core
 [submodule "blockr.gt"]
 	path = blockr.gt
-	url = https://github.com/cynkra/blockr.gt
+	url = https://github.com/BristolMyersSquibb/blockr.gt
 [submodule "blockr.ui"]
 	path = blockr.ui
-	url = https://github.com/cynkra/blockr.ui
+	url = https://github.com/BristolMyersSquibb/blockr.ui
 [submodule "boomer"]
 	path = boomer
 	url = https://github.com/moodymudskipper/boomer

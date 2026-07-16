@@ -50,6 +50,9 @@
 [submodule "blockr.core"]
 	path = blockr.core
 	url = https://github.com/cynkra/blockr.core
+[submodule "blockr.gt"]
+	path = blockr.gt
+	url = https://github.com/cynkra/blockr.gt
 [submodule "blockr.ui"]
 	path = blockr.ui
 	url = https://github.com/cynkra/blockr.ui
@@ -98,6 +101,9 @@
 [submodule "flow"]
 	path = flow
 	url = https://github.com/moodymudskipper/flow
+[submodule "g6R"]
+	path = g6R
+	url = https://github.com/cynkra/g6R
 [submodule "geocompkg"]
 	path = geocompkg
 	url = https://github.com/geocompx/geocompkg

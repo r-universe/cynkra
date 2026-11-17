@@ -323,13 +323,6 @@
     }
   },
   {
-    "package": "MakefileR",
-    "metadata": {
-      "category": "Development",
-      "cynkra_team_members": "kirill"
-    }
-  },
-  {
     "package": "mockr",
     "metadata": {
       "category": "Development",

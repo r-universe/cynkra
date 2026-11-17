@@ -11,9 +11,6 @@
 [submodule "DBItest"]
 	path = DBItest
 	url = https://github.com/r-dbi/DBItest
-[submodule "MakefileR"]
-	path = MakefileR
-	url = https://github.com/krlmlr/MakefileR
 [submodule "RMariaDB"]
 	path = RMariaDB
 	url = https://github.com/r-dbi/RMariaDB

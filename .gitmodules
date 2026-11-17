@@ -227,9 +227,6 @@
 [submodule "timeless"]
 	path = timeless
 	url = https://github.com/schochastics/timeless
-[submodule "tmap"]
-	path = tmap
-	url = https://github.com/r-tmap/tmap
 [submodule "tsbox"]
 	path = tsbox
 	url = https://github.com/ropensci/tsbox

@@ -591,13 +591,6 @@
     }
   },
   {
-    "package": "tmap",
-    "metadata": {
-      "category": "Spatial",
-      "cynkra_team_members": "jannes"
-    }
-  },
-  {
     "package": "tsbox",
     "metadata": {
       "category": "Time series",

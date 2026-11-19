@@ -41,18 +41,72 @@
 [submodule "blob"]
 	path = blob
 	url = https://github.com/tidyverse/blob
-[submodule "blockr.ai"]
-	path = blockr.ai
-	url = https://github.com/BristolMyersSquibb/blockr.ai
+[submodule "blockr"]
+	path = blockr
+	url = https://github.com/BristolMyersSquibb/blockr
+[submodule "blockr.assistant"]
+	path = blockr.assistant
+	url = https://github.com/BristolMyersSquibb/blockr.assistant
 [submodule "blockr.core"]
 	path = blockr.core
 	url = https://github.com/BristolMyersSquibb/blockr.core
+[submodule "blockr.dag"]
+	path = blockr.dag
+	url = https://github.com/BristolMyersSquibb/blockr.dag
+[submodule "blockr.dm"]
+	path = blockr.dm
+	url = https://github.com/BristolMyersSquibb/blockr.dm
+[submodule "blockr.dock"]
+	path = blockr.dock
+	url = https://github.com/BristolMyersSquibb/blockr.dock
+[submodule "blockr.dplyr"]
+	path = blockr.dplyr
+	url = https://github.com/BristolMyersSquibb/blockr.dplyr
+[submodule "blockr.ggplot"]
+	path = blockr.ggplot
+	url = https://github.com/BristolMyersSquibb/blockr.ggplot
 [submodule "blockr.gt"]
 	path = blockr.gt
 	url = https://github.com/BristolMyersSquibb/blockr.gt
+[submodule "blockr.insurance"]
+	path = blockr.insurance
+	url = https://github.com/cynkra/blockr.insurance
+[submodule "blockr.io"]
+	path = blockr.io
+	url = https://github.com/BristolMyersSquibb/blockr.io
+[submodule "blockr.outline"]
+	path = blockr.outline
+	url = https://github.com/cynkra/blockr.outline
+[submodule "blockr.page"]
+	path = blockr.page
+	url = https://github.com/cynkra/blockr.page
+[submodule "blockr.portfolio"]
+	path = blockr.portfolio
+	url = https://github.com/cynkra/blockr.portfolio
+[submodule "blockr.process"]
+	path = blockr.process
+	url = https://github.com/cynkra/blockr.process
+[submodule "blockr.script"]
+	path = blockr.script
+	url = https://github.com/BristolMyersSquibb/blockr.script
+[submodule "blockr.seasonal"]
+	path = blockr.seasonal
+	url = https://github.com/cynkra/blockr.seasonal
+[submodule "blockr.session"]
+	path = blockr.session
+	url = https://github.com/BristolMyersSquibb/blockr.session
+[submodule "blockr.stats"]
+	path = blockr.stats
+	url = https://github.com/cynkra/blockr.stats
+[submodule "blockr.ts"]
+	path = blockr.ts
+	url = https://github.com/cynkra/blockr.ts
 [submodule "blockr.ui"]
 	path = blockr.ui
 	url = https://github.com/BristolMyersSquibb/blockr.ui
+[submodule "blockr.viz"]
+	path = blockr.viz
+	url = https://github.com/BristolMyersSquibb/blockr.viz
 [submodule "boomer"]
 	path = boomer
 	url = https://github.com/moodymudskipper/boomer

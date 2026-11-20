@@ -140,71 +140,7 @@
     }
   },
   {
-    "package": "blockr.gt",
-    "metadata": {
-      "category": "Shiny",
-      "cynkra_team_members": [
-        "mike"
-      ]
-    }
-  },
-  {
-    "package": "blockr.insurance",
-    "metadata": {
-      "category": "Shiny",
-      "cynkra_team_members": [
-        "david",
-        "nicolas",
-        "christoph"
-      ]
-    }
-  },
-  {
     "package": "blockr.io",
-    "metadata": {
-      "category": "Shiny",
-      "cynkra_team_members": [
-        "david",
-        "nicolas",
-        "christoph"
-      ]
-    }
-  },
-  {
-    "package": "blockr.outline",
-    "metadata": {
-      "category": "Shiny",
-      "cynkra_team_members": [
-        "david",
-        "nicolas",
-        "christoph"
-      ]
-    }
-  },
-  {
-    "package": "blockr.page",
-    "metadata": {
-      "category": "Shiny",
-      "cynkra_team_members": [
-        "david",
-        "nicolas",
-        "christoph"
-      ]
-    }
-  },
-  {
-    "package": "blockr.portfolio",
-    "metadata": {
-      "category": "Shiny",
-      "cynkra_team_members": [
-        "david",
-        "nicolas",
-        "christoph"
-      ]
-    }
-  },
-  {
-    "package": "blockr.process",
     "metadata": {
       "category": "Shiny",
       "cynkra_team_members": [
@@ -226,42 +162,9 @@
     }
   },
   {
-    "package": "blockr.seasonal",
-    "metadata": {
-      "category": "Time series",
-      "cynkra_team_members": [
-        "david",
-        "nicolas",
-        "christoph"
-      ]
-    }
-  },
-  {
     "package": "blockr.session",
     "metadata": {
       "category": "Shiny",
-      "cynkra_team_members": [
-        "david",
-        "nicolas",
-        "christoph"
-      ]
-    }
-  },
-  {
-    "package": "blockr.stats",
-    "metadata": {
-      "category": "Statistics",
-      "cynkra_team_members": [
-        "david",
-        "nicolas",
-        "christoph"
-      ]
-    }
-  },
-  {
-    "package": "blockr.ts",
-    "metadata": {
-      "category": "Time series",
       "cynkra_team_members": [
         "david",
         "nicolas",

@@ -65,42 +65,15 @@
 [submodule "blockr.ggplot"]
 	path = blockr.ggplot
 	url = https://github.com/BristolMyersSquibb/blockr.ggplot
-[submodule "blockr.gt"]
-	path = blockr.gt
-	url = https://github.com/BristolMyersSquibb/blockr.gt
-[submodule "blockr.insurance"]
-	path = blockr.insurance
-	url = https://github.com/cynkra/blockr.insurance
 [submodule "blockr.io"]
 	path = blockr.io
 	url = https://github.com/BristolMyersSquibb/blockr.io
-[submodule "blockr.outline"]
-	path = blockr.outline
-	url = https://github.com/cynkra/blockr.outline
-[submodule "blockr.page"]
-	path = blockr.page
-	url = https://github.com/cynkra/blockr.page
-[submodule "blockr.portfolio"]
-	path = blockr.portfolio
-	url = https://github.com/cynkra/blockr.portfolio
-[submodule "blockr.process"]
-	path = blockr.process
-	url = https://github.com/cynkra/blockr.process
 [submodule "blockr.script"]
 	path = blockr.script
 	url = https://github.com/BristolMyersSquibb/blockr.script
-[submodule "blockr.seasonal"]
-	path = blockr.seasonal
-	url = https://github.com/cynkra/blockr.seasonal
 [submodule "blockr.session"]
 	path = blockr.session
 	url = https://github.com/BristolMyersSquibb/blockr.session
-[submodule "blockr.stats"]
-	path = blockr.stats
-	url = https://github.com/cynkra/blockr.stats
-[submodule "blockr.ts"]
-	path = blockr.ts
-	url = https://github.com/cynkra/blockr.ts
 [submodule "blockr.ui"]
 	path = blockr.ui
 	url = https://github.com/BristolMyersSquibb/blockr.ui
